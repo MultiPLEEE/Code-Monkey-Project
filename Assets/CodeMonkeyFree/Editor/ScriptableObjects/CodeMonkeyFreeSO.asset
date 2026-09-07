@@ -14,38 +14,38 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentVersion: 1.01
   subtype: kitchenchaos
-  lastShownTimestamp: 1788557772
+  lastShownTimestamp: 1788716971
   lastUpdateResponse:
-    version: 1.00
+    version: 1.01
     versionUrl: https://unitycodemonkey.com
-  checkedLastUpdateTimestamp: 1788557772
+  checkedLastUpdateTimestamp: 1788716971
   lastQOTDResponse:
-    questionId: 163
-    questionText: What is the purpose of Unity Hub?
-    answerA: Provide a space for the community to interact
-    answerB: Manage different Unity versions and Projects
-    answerC: Dashboard for Unity services
-    answerD: 
+    questionId: 339
+    questionText: What is the correct way to show a variable in the Editor?
+    answerA: public int health;
+    answerB: public static int health;
+    answerC: '[SerializeField] private int health;'
+    answerD: private int health;
     answerE: 
-  lastQotdTimestamp: 1788557772
+  lastQotdTimestamp: 1788716971
   lastDynamicHeaderResponse:
-    topImageUrl: https://codemonkeyexternal.blob.core.windows.net/external/Misc/humbleBundleSyntyMar25.png
-    topText: Make ANY game with these awesome Assets! (96% OFF ENDS SOON!)
+    topImageUrl: https://codemonkeyexternal.blob.core.windows.net/external/Misc/humbleSep26Maksym.png
+    topText: AWESOME Characters and Weapons 98% OFF! (Modern, Medieval, Fantasy, Sci-Fi, etc)
     topLink: humblebundle
-    bottomText: Learn Unity DOTS for MASSIVE Performance Boosts! (and make an RTS)
-    bottomLink: dotscourse
-  lastDynamicHeaderTimestamp: 1788557772
+    bottomText: Escape Tutorial Hell and level up your skills, try my Practice Lab for FREE!
+    bottomLink: practicelab
+  lastDynamicHeaderTimestamp: 1788716971
   websiteLatestMessage:
     text: <a href="https://cmonkey.co/freecourses">Check out all my FREE courses! Click here!</a>
-  websiteLatestMessageTimestamp: 1788557772
+  websiteLatestMessageTimestamp: 1788716971
   websiteLatestVideos:
     videos:
-    - youTubeId: ZIg7VoD9ptI
-      title: The FUTURE of Unity in 2025 and BEYOND!
-    - youTubeId: W_XOZAWJF24
-      title: I made the MOST PROFITABLE Game as a Test!
-    - youTubeId: J0KMvH-yFmA
-      title: TOP 10 NEW Games, Made with Unity! (FEBRUARY 2025)
-    - youTubeId: DOSLOa7cnoE
-      title: I SHOULD have done this a long time ago, and YOU too!
-  websiteLatestVideosTimestamp: 1788557772
+    - youTubeId: HOm1VQLKhX8
+      title: Unity 6.6 is here and it has 3 MASSIVE IMPROVEMENTS!
+    - youTubeId: 8xj9IEFRgKo
+      title: THIS is how you go from BEGINNER to ADVANCED!
+    - youTubeId: XJBrzk7PR4o
+      title: DON'T sell your game for $100!
+    - youTubeId: 2QKVo8m5ozQ
+      title: The MYTH of the Overnight Game Success! ($10 mil DOESN'T happen like that)
+  websiteLatestVideosTimestamp: 1788716971
